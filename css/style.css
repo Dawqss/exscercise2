@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda+One');
+
+/* font-family: 'Merienda One', cursive; */
+
+body {
+	background: #ecf0f1;
+}
+
+h1 {
+	font-family: 'Merienda One', cursive;
+	font-weight: 900;
+	font-size: 150px;
+	text-align: center;
+	color: #3498db;
+	text-shadow: 4px 4px #2980b9;
+	line-height: 60vh;
+}
